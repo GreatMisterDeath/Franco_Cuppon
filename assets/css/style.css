@@ -1,0 +1,143 @@
+a
+{
+    font-family: 'Roboto', 'Arial';
+    font-weight: 300 !important;
+}
+
+p
+{
+    font-family: 'Roboto', 'Arial';
+    font-weight: 300 !important;
+
+    color: #707070;
+}
+
+h3
+{
+    font-family: 'Roboto', 'Arial';
+    font-weight: 300 !important;
+
+    color: #707070;
+}
+
+h5
+{
+    font-family: 'Roboto', 'Arial';
+    font-weight: 300 !important;
+
+
+    color: #212529;
+}
+
+.c_section_principal
+{
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.c_section_principal_column
+{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.c_card_direction
+{
+    display: flex;
+    flex-direction: row;
+
+    margin-left: -16px;
+    margin-top: -16px;
+}
+
+.c_card_alignment
+{
+     width: 20rem;
+     margin-top: 16px;
+     margin-bottom: 16px;
+}
+
+.c_card_text
+{
+    color: #28A745;
+    font-family: Roboto;
+    font-weight: 500 !important;
+    font-size: 130%;
+    margin-top: 6px;
+}
+
+.c_card_svg_icon
+{
+    color: #707070;
+    margin-top: 2px;
+}
+
+.c_card_price
+{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: flex-end;
+}
+
+.c_footer
+{
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    bottom: 0;
+
+    align-items: center;
+    justify-content: center;
+
+    background-color: #28A745;
+}
+
+.c_footer_bottom
+{
+    display: flex;
+    flex-direction: column;
+
+    padding: 32px;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.c_footer_text_email
+{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.c_footer_text_button
+{
+    font-family: 'Arial';
+    font-weight: 700 !important;
+
+    color: #000000 !important;
+
+    text-align: center;
+
+    margin-top: 16px;
+}
+
+.c_footer_text_bottom
+{
+    font-family: 'Roboto', 'Arial';
+    font-weight: 300 !important;
+    font-size: 16px;
+
+    color: #707070;
+
+    text-align: center;
+
+    margin-top: 16px;
+}
